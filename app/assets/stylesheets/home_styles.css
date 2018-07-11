@@ -1,0 +1,40 @@
+html {
+	background: url('guardian_wallpaper.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover; 
+	-moz-background-size: cover; 
+	-o-background-size: cover; 
+	background-size: 1450px; 
+	font-family: sans-serif;
+}
+
+#container {
+	margin: auto;
+	width: 1300px;
+}
+
+#logo img {
+	width: 150px;
+	float: left;
+	position: absolute;
+}
+
+#left-nav-buttons {
+	float: left;
+	margin-left: 900px;
+	color: ;
+}
+
+#footer-links {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	color: white;
+}
+
+#title {
+	color: white;
+}
+
+#nav-button {
+	color: white;
+}
